@@ -14,7 +14,7 @@ public class BodyController : MonoBehaviour
         InitBody(body);
     }
     
-    private float overTime = 0.2f;
+    private float overTime = 0.1f;
 
     private void FixedUpdate()
     {

@@ -4,7 +4,6 @@ public class Movement : MonoBehaviour
 {
     private const float Speed = 2.5f;
     private Rigidbody2D _rb;
-    protected InputMaster _controls;
 
     private void Start()
     {
@@ -14,16 +13,8 @@ public class Movement : MonoBehaviour
 
     protected void Move(Vector2 vel)
     {
-        _rb.velocity = vel.normalized * Speed;
-    }
-
-    private void OnEnable()
-    {
-        _controls.Enable();
-    }
-
-    private void OnDisable()
-    {
-        _controls.Disable();
+        // _rb.velocity = vel.normalized * Speed;
+        transform.up = new Vector3(vel.x, vel.y, 0f);
+        _rb.velocity = transform.up * Speed;
     }
 }
