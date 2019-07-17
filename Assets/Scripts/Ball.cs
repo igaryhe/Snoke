@@ -15,12 +15,16 @@ public class Ball : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (_rb.velocity.magnitude == 0) return;
         // _rb.velocity = _rb.velocity.normalized * speed;
+        _rb.velocity = _rb.velocity.normalized * speed;
+        speed += Time.deltaTime * 0.2f;
     }
 
     public void Reposition()
     {
         gameObject.transform.position = Vector3.zero;
         _rb.velocity = Vector2.zero;
+        speed = 2;
     }
 }
