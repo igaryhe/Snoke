@@ -25,7 +25,7 @@ public class Movement : MonoBehaviour
     private KeyCode sprint;
     private KeyCode sprintCtrl;
     public Slider bar;
-    private float stamina = 1f;
+    public float stamina = 1f;
 
     private void Start()
     {
@@ -98,14 +98,14 @@ public class Movement : MonoBehaviour
                 t += Time.deltaTime;
             }
         }
-        if (deltaAngle > 0 && !disableCtrl)
+        if (deltaAngle > 5 && !disableCtrl)
         {
-            //rotateSpeed = Mathf.Lerp(0, rotateSpeed, deltaAngle / 12f);
+            // rotateSpeed = Mathf.Lerp(0, rotateSpeed, deltaAngle / 12f);
             transform.Rotate(Vector3.forward, Time.deltaTime * rotateSpeed);
         }
-        else if (deltaAngle < 0 && !disableCtrl)
+        else if (deltaAngle < -5 && !disableCtrl)
         {
-            //rotateSpeed = Mathf.Lerp(0, rotateSpeed, deltaAngle / 12f);
+            // rotateSpeed = Mathf.Lerp(0, rotateSpeed, deltaAngle / 12f);
             transform.Rotate(Vector3.forward, Time.deltaTime * -rotateSpeed);
         }
 

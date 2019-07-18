@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class Ball : MonoBehaviour
 {
@@ -31,5 +32,7 @@ public class Ball : MonoBehaviour
         speed = 2;
         head1.GetComponent<BodyController>().Restart();
         head2.GetComponent<BodyController>().Restart();
+        head1.GetComponent<Movement>().stamina = 1f;
+        head2.GetComponent<Movement>().stamina = 1f;
     }
 }

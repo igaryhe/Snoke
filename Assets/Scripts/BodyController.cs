@@ -30,7 +30,6 @@ public class BodyController : MonoBehaviour
             var instance = Instantiate(part, transform.position, Quaternion.identity);
             if (player == -1) instance.layer = 15;
             else instance.layer = 16;
-            instance.GetComponentInChildren<SpriteRenderer>().color = gameObject.GetComponent<SpriteRenderer>().color;
             b.Add(instance);
             vels.Add(Vector3.zero);
         }
@@ -58,7 +57,6 @@ public class BodyController : MonoBehaviour
     public void Increase()
     {
         var instance = Instantiate(part, body[len - 1].transform.position, Quaternion.identity);
-        instance.GetComponentInChildren<SpriteRenderer>().color = gameObject.GetComponent<SpriteRenderer>().color;
         body.Add(instance);
         vels.Add(Vector3.zero);
         len++;

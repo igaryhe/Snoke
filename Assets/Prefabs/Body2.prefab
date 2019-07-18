@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4107183040377650910}
   - component: {fileID: 288136435947142909}
-  m_Layer: 15
+  m_Layer: 16
   m_Name: New Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68,7 +68,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: d60b6a4d591a443efb7fad5391b00e39, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 53d7f7ebc24db45bca19edbb2fa511f3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -90,8 +90,8 @@ GameObject:
   - component: {fileID: 4769344181603921469}
   - component: {fileID: 2757099581797072498}
   - component: {fileID: 5587551904681627391}
-  m_Layer: 15
-  m_Name: Body
+  m_Layer: 16
+  m_Name: Body2
   m_TagString: Body
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
