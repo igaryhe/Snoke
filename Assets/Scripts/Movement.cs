@@ -5,7 +5,7 @@ using Vector2 = UnityEngine.Vector2;
 public class Movement : MonoBehaviour
 {
     private Rigidbody2D _rb;
-    public float speed = 2f;
+    public float speed = 3f;
     private float _x;
     private float _y;
     public string horizontal;
@@ -48,8 +48,9 @@ public class Movement : MonoBehaviour
             d = Vector3.SignedAngle(transform.up, dir, Vector3.forward);
             if (collision.gameObject.tag == "Ball")
             {
-                rotAdj = 0.5f;
-                spdAdj = 0.5f;
+                rotAdj = 0f;
+                spdAdj = 0.3f;
+                durAdj = 0.3f;
             }
             if (collision.gameObject.tag == "Body")
             {
