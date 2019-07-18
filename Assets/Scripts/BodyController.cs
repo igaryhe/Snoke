@@ -28,6 +28,8 @@ public class BodyController : MonoBehaviour
         for (var i = 0; i != len; i++)
         {
             var instance = Instantiate(part, transform.position, Quaternion.identity);
+            if (player == -1) instance.layer = 15;
+            else instance.layer = 16;
             instance.GetComponentInChildren<SpriteRenderer>().color = gameObject.GetComponent<SpriteRenderer>().color;
             b.Add(instance);
             vels.Add(Vector3.zero);
@@ -42,17 +44,12 @@ public class BodyController : MonoBehaviour
             if (i != 0)
             {
                 b[i].transform.up = (b[i - 1].transform.position - b[i - 1].transform.up * 0.15f - b[i].transform.position).normalized;
-                //b[i].localPosition = new Vector3(b[i].localPosition.x,
-                //                                 b[i].localPosition.y + Vector3.Magnitude(b[i - 1].position - b[i].position) - distant,
-                //                                 b[i].localPosition.z);
+
                 b[i].transform.position = b[i - 1].transform.position - b[i - 1].transform.up * 0.15f - (b[i - 1].transform.position - b[i - 1].transform.up * 0.15f - b[i].transform.position).normalized * distant;
             }
             else if(i == 0)
             {
                 b[i].transform.up = (transform.position - transform.up * 0.15f - b[i].transform.position).normalized;
-                //b[i].localPosition = new Vector3(b[i].localPosition.x,
-                //                                 b[i].localPosition.y + Vector3.Magnitude(transform.position - b[i].position) - distant,
-                //                                 b[i].localPosition.z);
                 b[i].transform.position = transform.position - transform.up * 0.15f - (transform.position - transform.up * 0.15f - b[i].transform.position).normalized * distant;
             }
         }
