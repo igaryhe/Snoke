@@ -48,19 +48,21 @@ public class Movement : MonoBehaviour
             d = Vector3.SignedAngle(transform.up, dir, Vector3.forward);
             if (collision.gameObject.tag == "Ball")
             {
+                
                 rotAdj = 0f;
                 spdAdj = 0.3f;
-                durAdj = 0.3f;
+                durAdj = 0.1f * Mathf.Abs(-1 * Vector3.Dot(new Vector3(collision.relativeVelocity.x, collision.relativeVelocity.y, 0), transform.up));;
             }
             else if (collision.gameObject.tag == "Body")
             {
                 rotAdj = 0.8f;
                 spdAdj = 1f;
-                durAdj = 0.1f;
+                durAdj = 0.8f;
             }
             else
             {
-                rotAdj = 1;
+                durAdj = -0.8f * Vector3.Dot(dir, transform.up);
+                //rotAdj = 1;
             }
         }
     }
@@ -82,6 +84,7 @@ public class Movement : MonoBehaviour
                 t = 0;
                 spdAdj = 1f;
                 durAdj = 1f;
+                rotAdj = 1f;
                 disableCtrl = false;
             }
             else

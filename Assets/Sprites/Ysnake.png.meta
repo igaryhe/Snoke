@@ -1,7 +1,601 @@
 fileFormatVersion: 2
 guid: a750e200436d1154bb3251ee86a19b76
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4800086751841063326
+    second: Ysnake_0
+  - first:
+      213: 5926392805913097136
+    second: Ysnake_1
+  - first:
+      213: 51600666113249479
+    second: Ysnake_2
+  - first:
+      213: 691612942358826038
+    second: Ysnake_3
+  - first:
+      213: -9178294924639427488
+    second: Ysnake_4
+  - first:
+      213: 1224147432985606350
+    second: Ysnake_5
+  - first:
+      213: -1548416310073122928
+    second: Ysnake_6
+  - first:
+      213: 3462849134764312261
+    second: Ysnake_7
+  - first:
+      213: 3481910628936825194
+    second: Ysnake_8
+  - first:
+      213: -8533607019871742974
+    second: Ysnake_9
+  - first:
+      213: -6685203518219505328
+    second: Ysnake_10
+  - first:
+      213: 5000442274530225720
+    second: Ysnake_11
+  - first:
+      213: -3729233682334730016
+    second: Ysnake_12
+  - first:
+      213: -7466912483954625595
+    second: Ysnake_13
+  - first:
+      213: -2631961970850765119
+    second: Ysnake_14
+  - first:
+      213: -856793649010032907
+    second: Ysnake_15
+  - first:
+      213: 1774170383213552017
+    second: Ysnake_16
+  - first:
+      213: -2708402492931970249
+    second: Ysnake_17
+  - first:
+      213: 1983853535061913434
+    second: Ysnake_18
+  - first:
+      213: -9218175534455169069
+    second: Ysnake_19
+  - first:
+      213: 8209521338251607570
+    second: Ysnake_20
+  - first:
+      213: 2063784704658545116
+    second: Ysnake_21
+  - first:
+      213: 8785504527366393721
+    second: Ysnake_22
+  - first:
+      213: -4157443178600225252
+    second: Ysnake_23
+  - first:
+      213: -6459857314565717146
+    second: Ysnake_24
+  - first:
+      213: -5583445612103093257
+    second: Ysnake_25
+  - first:
+      213: 5540643017737847868
+    second: Ysnake_26
+  - first:
+      213: -7750440716892730188
+    second: Ysnake_27
+  - first:
+      213: 4309043873925177021
+    second: Ysnake_28
+  - first:
+      213: 8578765356085882521
+    second: Ysnake_29
+  - first:
+      213: 2661614341864768447
+    second: Ysnake_30
+  - first:
+      213: -5989683915525717044
+    second: Ysnake_31
+  - first:
+      213: -1855603452220717796
+    second: Ysnake_32
+  - first:
+      213: 8761946310792769054
+    second: Ysnake_33
+  - first:
+      213: 5355251181281024923
+    second: Ysnake_34
+  - first:
+      213: 9009726140568392259
+    second: Ysnake_35
+  - first:
+      213: 5129784373095454315
+    second: Ysnake_36
+  - first:
+      213: 9029476110754723422
+    second: Ysnake_37
+  - first:
+      213: -1051456215218984547
+    second: Ysnake_38
+  - first:
+      213: -5515245502887701078
+    second: Ysnake_39
+  - first:
+      213: -5375645868651441544
+    second: Ysnake_40
+  - first:
+      213: -8565287789017553595
+    second: Ysnake_41
+  - first:
+      213: 2726636169597846384
+    second: Ysnake_42
+  - first:
+      213: 2143121117678416217
+    second: Ysnake_43
+  - first:
+      213: 639570434587499976
+    second: Ysnake_44
+  - first:
+      213: 7279787153125376015
+    second: Ysnake_45
+  - first:
+      213: 2563454846970609481
+    second: Ysnake_46
+  - first:
+      213: 6155765940928884644
+    second: Ysnake_47
+  - first:
+      213: 5504673171554333050
+    second: Ysnake_48
+  - first:
+      213: 8283965180400228591
+    second: Ysnake_49
+  - first:
+      213: -646171019909657545
+    second: Ysnake_50
+  - first:
+      213: -5890118694511439028
+    second: Ysnake_51
+  - first:
+      213: -6629322206459880871
+    second: Ysnake_52
+  - first:
+      213: -8632901735561942016
+    second: Ysnake_53
+  - first:
+      213: -5530578667528188843
+    second: Ysnake_54
+  - first:
+      213: 5132712525197619935
+    second: Ysnake_55
+  - first:
+      213: -9057568880650820274
+    second: Ysnake_56
+  - first:
+      213: -5925134079859514494
+    second: Ysnake_57
+  - first:
+      213: -2145426315242348989
+    second: Ysnake_58
+  - first:
+      213: -3521509880265925980
+    second: Ysnake_59
+  - first:
+      213: 7018733541487213742
+    second: Ysnake_60
+  - first:
+      213: 2103422038936641054
+    second: Ysnake_61
+  - first:
+      213: 1782375654575074052
+    second: Ysnake_62
+  - first:
+      213: 5101711651394400767
+    second: Ysnake_63
+  - first:
+      213: 1866076470445020580
+    second: Ysnake_64
+  - first:
+      213: -1641236217050263086
+    second: Ysnake_65
+  - first:
+      213: 8179981331197257124
+    second: Ysnake_66
+  - first:
+      213: -4308343996010470836
+    second: Ysnake_67
+  - first:
+      213: 441510578823385032
+    second: Ysnake_68
+  - first:
+      213: -2023333987787074025
+    second: Ysnake_69
+  - first:
+      213: 3996930365295653004
+    second: Ysnake_70
+  - first:
+      213: -5935389981405568205
+    second: Ysnake_71
+  - first:
+      213: -850981575300782215
+    second: Ysnake_72
+  - first:
+      213: -6891298164851672393
+    second: Ysnake_73
+  - first:
+      213: -3004748367027659057
+    second: Ysnake_74
+  - first:
+      213: -1560536207730514322
+    second: Ysnake_75
+  - first:
+      213: 7594054058780117901
+    second: Ysnake_76
+  - first:
+      213: 1675314650902027646
+    second: Ysnake_77
+  - first:
+      213: 8289689871820203310
+    second: Ysnake_78
+  - first:
+      213: -8856515274697944433
+    second: Ysnake_79
+  - first:
+      213: 232857730469292839
+    second: Ysnake_80
+  - first:
+      213: -6379269314631972932
+    second: Ysnake_81
+  - first:
+      213: -7724469321508736412
+    second: Ysnake_82
+  - first:
+      213: -6800860998216356734
+    second: Ysnake_83
+  - first:
+      213: -5263962040735865134
+    second: Ysnake_84
+  - first:
+      213: -7904105543219788007
+    second: Ysnake_85
+  - first:
+      213: -3515753523148636150
+    second: Ysnake_86
+  - first:
+      213: -6102429560828354161
+    second: Ysnake_87
+  - first:
+      213: -3255540927685669804
+    second: Ysnake_88
+  - first:
+      213: 6347276303108216396
+    second: Ysnake_89
+  - first:
+      213: -4768316760252130376
+    second: Ysnake_90
+  - first:
+      213: -7231604889033850722
+    second: Ysnake_91
+  - first:
+      213: 851720824382226413
+    second: Ysnake_92
+  - first:
+      213: 9089128507384660474
+    second: Ysnake_93
+  - first:
+      213: 2463180431343180282
+    second: Ysnake_94
+  - first:
+      213: -7696998593597730264
+    second: Ysnake_95
+  - first:
+      213: 5780974093662160771
+    second: Ysnake_96
+  - first:
+      213: 1455606566218837811
+    second: Ysnake_97
+  - first:
+      213: -7033327464079249718
+    second: Ysnake_98
+  - first:
+      213: 5291349096344979804
+    second: Ysnake_99
+  - first:
+      213: -3321343171007146476
+    second: Ysnake_100
+  - first:
+      213: -5179860507755073600
+    second: Ysnake_101
+  - first:
+      213: -2199323281243602156
+    second: Ysnake_102
+  - first:
+      213: 16949888669023799
+    second: Ysnake_103
+  - first:
+      213: -7663280920194400146
+    second: Ysnake_104
+  - first:
+      213: 165429652250083809
+    second: Ysnake_105
+  - first:
+      213: -4744978024517657817
+    second: Ysnake_106
+  - first:
+      213: 5616119799086328135
+    second: Ysnake_107
+  - first:
+      213: 3430966150474611660
+    second: Ysnake_108
+  - first:
+      213: 3042256345934534404
+    second: Ysnake_109
+  - first:
+      213: -4454129108753284827
+    second: Ysnake_110
+  - first:
+      213: -69992448435413389
+    second: Ysnake_111
+  - first:
+      213: -1028992467503554229
+    second: Ysnake_112
+  - first:
+      213: -8984389401104736880
+    second: Ysnake_113
+  - first:
+      213: -6169102294841396884
+    second: Ysnake_114
+  - first:
+      213: -8407296191642947526
+    second: Ysnake_115
+  - first:
+      213: 3184179530116684975
+    second: Ysnake_116
+  - first:
+      213: -6890763824157901379
+    second: Ysnake_117
+  - first:
+      213: 2929668368392194420
+    second: Ysnake_118
+  - first:
+      213: 8000017323124152157
+    second: Ysnake_119
+  - first:
+      213: -6070508760621287074
+    second: Ysnake_120
+  - first:
+      213: 820002459032418600
+    second: Ysnake_121
+  - first:
+      213: 4464772867191443654
+    second: Ysnake_122
+  - first:
+      213: -4079554461123555880
+    second: Ysnake_123
+  - first:
+      213: 2258282788904729669
+    second: Ysnake_124
+  - first:
+      213: 9127605787179380999
+    second: Ysnake_125
+  - first:
+      213: 8827108547564440715
+    second: Ysnake_126
+  - first:
+      213: -5828580083674315844
+    second: Ysnake_127
+  - first:
+      213: -2869279089667885197
+    second: Ysnake_128
+  - first:
+      213: -7611489176410838046
+    second: Ysnake_129
+  - first:
+      213: -1092364007205620921
+    second: Ysnake_130
+  - first:
+      213: 1274025887546958898
+    second: Ysnake_131
+  - first:
+      213: 2642138242740722639
+    second: Ysnake_132
+  - first:
+      213: 7243479663664827944
+    second: Ysnake_133
+  - first:
+      213: 2483114197741789694
+    second: Ysnake_134
+  - first:
+      213: -1047899815268003091
+    second: Ysnake_135
+  - first:
+      213: -437044205155503708
+    second: Ysnake_136
+  - first:
+      213: -1584228580900592009
+    second: Ysnake_137
+  - first:
+      213: 4559989194346491127
+    second: Ysnake_138
+  - first:
+      213: 2107812037839011816
+    second: Ysnake_139
+  - first:
+      213: 7130456161355854812
+    second: Ysnake_140
+  - first:
+      213: -5698608003505959806
+    second: Ysnake_141
+  - first:
+      213: -7199407043510833554
+    second: Ysnake_142
+  - first:
+      213: 2768520655848054980
+    second: Ysnake_143
+  - first:
+      213: -2012718481877089730
+    second: Ysnake_144
+  - first:
+      213: -8975606220843714518
+    second: Ysnake_145
+  - first:
+      213: -1612462560053796440
+    second: Ysnake_146
+  - first:
+      213: -3322012690229971838
+    second: Ysnake_147
+  - first:
+      213: 24676762028942250
+    second: Ysnake_148
+  - first:
+      213: -2939958061706215493
+    second: Ysnake_149
+  - first:
+      213: 2270085070022770030
+    second: Ysnake_150
+  - first:
+      213: -4841347833644626315
+    second: Ysnake_151
+  - first:
+      213: 2074718796896549099
+    second: Ysnake_152
+  - first:
+      213: -3240256661567437134
+    second: Ysnake_153
+  - first:
+      213: -8775532159116400262
+    second: Ysnake_154
+  - first:
+      213: 3903277339832465196
+    second: Ysnake_155
+  - first:
+      213: 7023545580396408329
+    second: Ysnake_156
+  - first:
+      213: 1341672597652790781
+    second: Ysnake_157
+  - first:
+      213: 5909857933762810195
+    second: Ysnake_158
+  - first:
+      213: 2562037739285185996
+    second: Ysnake_159
+  - first:
+      213: 827931640257029642
+    second: Ysnake_160
+  - first:
+      213: -8585539354069307537
+    second: Ysnake_161
+  - first:
+      213: -2172866388746845689
+    second: Ysnake_162
+  - first:
+      213: 383510115318776768
+    second: Ysnake_163
+  - first:
+      213: 2058306047168289339
+    second: Ysnake_164
+  - first:
+      213: 6687947367943113862
+    second: Ysnake_165
+  - first:
+      213: 8204280074143775031
+    second: Ysnake_166
+  - first:
+      213: -457267079162875099
+    second: Ysnake_167
+  - first:
+      213: 4776333915045669448
+    second: Ysnake_168
+  - first:
+      213: -6204031347388201340
+    second: Ysnake_169
+  - first:
+      213: -7719878988249920488
+    second: Ysnake_170
+  - first:
+      213: 436534947984792642
+    second: Ysnake_171
+  - first:
+      213: 1438603077531593960
+    second: Ysnake_172
+  - first:
+      213: -3692899692772968749
+    second: Ysnake_173
+  - first:
+      213: -5625983874814375276
+    second: Ysnake_174
+  - first:
+      213: -6821001040340858731
+    second: Ysnake_175
+  - first:
+      213: 5890528596122406329
+    second: Ysnake_176
+  - first:
+      213: 8739708465425351919
+    second: Ysnake_177
+  - first:
+      213: 4604244337082111473
+    second: Ysnake_178
+  - first:
+      213: 4487254578056581305
+    second: Ysnake_179
+  - first:
+      213: -7943124048667630919
+    second: Ysnake_180
+  - first:
+      213: 5009929209328267901
+    second: Ysnake_181
+  - first:
+      213: -7799509483854497941
+    second: Ysnake_182
+  - first:
+      213: 3642964152845742553
+    second: Ysnake_183
+  - first:
+      213: 6279615376374383857
+    second: Ysnake_184
+  - first:
+      213: 844058237970541073
+    second: Ysnake_185
+  - first:
+      213: -2130373007522912977
+    second: Ysnake_186
+  - first:
+      213: 2822470053250370349
+    second: Ysnake_187
+  - first:
+      213: -4656522173126389093
+    second: Ysnake_188
+  - first:
+      213: 91810904394031365
+    second: Ysnake_189
+  - first:
+      213: 4128136619280817732
+    second: Ysnake_190
+  - first:
+      213: -6430901184361337415
+    second: Ysnake_191
+  - first:
+      213: -1512416436418220518
+    second: Ysnake_192
+  - first:
+      213: -3863213902644577398
+    second: Ysnake_193
+  - first:
+      213: -5718020604562148299
+    second: Ysnake_194
+  - first:
+      213: -5116075102251014067
+    second: Ysnake_195
+  - first:
+      213: 8941663970128616602
+    second: Ysnake_196
+  - first:
+      213: 5691916785190238410
+    second: Ysnake_197
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +634,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +663,4178 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ysnake_0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 11644
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace568aaf35451469bdf58f50238691
+      internalID: -4800086751841063326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_1
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 11075
+        width: 787
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e607b4d542324bb30e2845d632bc3
+      internalID: 5926392805913097136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_2
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 11649
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc104214567c82b4db5c781cafa1734d
+      internalID: 51600666113249479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_3
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 11082
+        width: 798
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6de10e67aee664295ac56f9e41ac77
+      internalID: 691612942358826038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_4
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 11656
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdc7cccd7907a14b827c1fae7b9fd4f
+      internalID: -9178294924639427488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_5
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 11090
+        width: 804
+        height: 1065
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba630181a857e244b0641ae02ac625e
+      internalID: 1224147432985606350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_6
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 11661
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55a2f122f3eae42a4ac4b43be37001
+      internalID: -1548416310073122928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_7
+      rect:
+        serializedVersion: 2
+        x: 7341
+        y: 11099
+        width: 806
+        height: 1053
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e9c7bcca16b9d438b2fc4baa1d0986
+      internalID: 3462849134764312261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10953
+        width: 702
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0747612f83947ec43b04cb3f9159205a
+      internalID: 3481910628936825194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 11051
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c29d105d6cbba47ae204ad3377a0bb
+      internalID: -8533607019871742974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_10
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 10917
+        width: 231
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d9df4f13cfee04e9847e98d30f2564
+      internalID: -6685203518219505328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_11
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 10960
+        width: 707
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be37dd345ef4b644848b2ca9b5fb293
+      internalID: 5000442274530225720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_12
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 11054
+        width: 219
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9756ee53ebe3d0499bebbf4aa8b72f3
+      internalID: -3729233682334730016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_13
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 10920
+        width: 229
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d538a0b4910054b92ab9818f57b995
+      internalID: -7466912483954625595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_14
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 11094
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d275af5b1aceb48b2fadd5550d1c5c
+      internalID: -2631961970850765119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_15
+      rect:
+        serializedVersion: 2
+        x: 4441
+        y: 10971
+        width: 708
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281064761da068f409f274e4414ec2da
+      internalID: -856793649010032907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_16
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 11057
+        width: 225
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3381cf8e29106647bb83f8356ba625b
+      internalID: 1774170383213552017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_17
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 10922
+        width: 231
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4280b60ffcce4f9b317a83456d5c1
+      internalID: -2708402492931970249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_18
+      rect:
+        serializedVersion: 2
+        x: 6433
+        y: 11106
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ac80e9720d0754387f04248f684a50
+      internalID: 1983853535061913434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_19
+      rect:
+        serializedVersion: 2
+        x: 6523
+        y: 10981
+        width: 714
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7510aab8e853a7b41affc06e07644ab3
+      internalID: -9218175534455169069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_20
+      rect:
+        serializedVersion: 2
+        x: 7171
+        y: 11057
+        width: 225
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a787d28826794b8ed11f4f15233e8
+      internalID: 8209521338251607570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_21
+      rect:
+        serializedVersion: 2
+        x: 7293
+        y: 10922
+        width: 231
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5032ddd2104843ac245aacc03047b
+      internalID: 2063784704658545116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 11066
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c57a9495a7464a9ccb0ee83daeae5
+      internalID: 8785504527366393721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_23
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 11082
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e502821b074a348a77b9c22b90c177
+      internalID: -4157443178600225252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_24
+      rect:
+        serializedVersion: 2
+        x: 5519
+        y: 11042
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdd6b79d233d0e4daf3164e52b26d5f
+      internalID: -6459857314565717146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_25
+      rect:
+        serializedVersion: 2
+        x: 7601
+        y: 11048
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42a2563daa84a47b146b91bd0662fd
+      internalID: -5583445612103093257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_26
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 11029
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf053f95928e3124aa7cb15677790d0b
+      internalID: 5540643017737847868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_27
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 11036
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a8eb0ad893ee14694895c2b0593f41
+      internalID: -7750440716892730188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_28
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 10782
+        width: 235
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ab483a304177409624ec93d11eb6d
+      internalID: 4309043873925177021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_29
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 10782
+        width: 231
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7f458dd88e764dad746961ec865b3
+      internalID: 8578765356085882521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_30
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 10782
+        width: 232
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f979280ee18564cb67f6f3a2299445
+      internalID: 2661614341864768447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_31
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 10782
+        width: 236
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8351c5e15ea5344ea8a7f1e31d6fb17
+      internalID: -5989683915525717044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_32
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 9583
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179acd772f7b4c04695882fd961b3019
+      internalID: -1855603452220717796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_33
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 9024
+        width: 811
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d1ac441b1470488fe50f8de71b007
+      internalID: 8761946310792769054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_34
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 9587
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c49a98ad2882545ae4ca7284d084f9
+      internalID: 5355251181281024923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_35
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 9030
+        width: 820
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b292c3fda2cd1f34f9feab5b9dec4319
+      internalID: 9009726140568392259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_36
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 9593
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41119bda0d8435647a2bb2c8de7a37bb
+      internalID: 5129784373095454315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_37
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 9037
+        width: 824
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace66e749fe995489f3d401cebdbe86
+      internalID: 9029476110754723422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_38
+      rect:
+        serializedVersion: 2
+        x: 6970
+        y: 9599
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8811e19fe25fdc64688bc5d799a00b49
+      internalID: -1051456215218984547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_39
+      rect:
+        serializedVersion: 2
+        x: 7326
+        y: 9043
+        width: 832
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06e3cd3dfe4776409e832d3aec5e146
+      internalID: -5515245502887701078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_40
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8908
+        width: 714
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1141f778e50aeb4abc1777031da2abc
+      internalID: -5375645868651441544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_41
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 8975
+        width: 222
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbbeebb2082933419037e1c7ac146db
+      internalID: -8565287789017553595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_42
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 8915
+        width: 720
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96acc51f7a85e49a292dba8cfb65ab
+      internalID: 2726636169597846384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_43
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 8976
+        width: 225
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dee5cd68ab63f46a96d4a303227cc9
+      internalID: 2143121117678416217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_44
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 8927
+        width: 719
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c6c0c3fceaa054394375f532b9e6b8
+      internalID: 639570434587499976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_45
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 9196
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e684ba2e710831544a2ba4dacbf89509
+      internalID: 7279787153125376015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_46
+      rect:
+        serializedVersion: 2
+        x: 6519
+        y: 8939
+        width: 724
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29408b6dc8bb0544b7a57b2806e15b3
+      internalID: 2563454846970609481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_47
+      rect:
+        serializedVersion: 2
+        x: 7244
+        y: 9202
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f756820b3df5b499b997224410196d
+      internalID: 6155765940928884644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_48
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 9068
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac659dfd9a6fb054295b94f4ad52f00e
+      internalID: 5504673171554333050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_49
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 8976
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cc8f9469eb6f3428b8b906aa1664a3
+      internalID: 8283965180400228591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_50
+      rect:
+        serializedVersion: 2
+        x: 6432
+        y: 9080
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6444755decd78db40a425e885370accf
+      internalID: -646171019909657545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_51
+      rect:
+        serializedVersion: 2
+        x: 7174
+        y: 8979
+        width: 228
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e79f8ba078bd8e4da8d5ea026798cb1
+      internalID: -5890118694511439028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 9038
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08d93b426c8e6d4fae10137e07e4218
+      internalID: -6629322206459880871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_53
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 9055
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d4ee9f38ca522448bff112c276de59
+      internalID: -8632901735561942016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_54
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 8841
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa35043bdb0ac47aaf3e7523516f62
+      internalID: -5530578667528188843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_55
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 8841
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aa2667758d109458297acf6ce0d7dc
+      internalID: 5132712525197619935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_56
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 8841
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e9501bcf1a9e84eaab3b839d16545d
+      internalID: -9057568880650820274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_57
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 8983
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f0acb53d0d934448b4222b7fdfb8e4
+      internalID: -5925134079859514494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_58
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 8842
+        width: 232
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a612e40e8810e4f8803945354ac7af
+      internalID: -2145426315242348989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_59
+      rect:
+        serializedVersion: 2
+        x: 7589
+        y: 8991
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3247ec8185c8544afc6f303f179196
+      internalID: -3521509880265925980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_60
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 8973
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b633e2028eda16d44b5cd3190abef3be
+      internalID: 7018733541487213742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_61
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 8979
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c9ef1c84ecceb4cbe9a55537644277
+      internalID: 2103422038936641054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_62
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 8696
+        width: 237
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2eb7e893d2bf498cfda7204c6df8e
+      internalID: 1782375654575074052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_63
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 8696
+        width: 231
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c8f0e9867ce44cb35d70580054281
+      internalID: 5101711651394400767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_64
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 8696
+        width: 232
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb890d043ed8c46af3a1a47e47b965
+      internalID: 1866076470445020580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_65
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 8696
+        width: 236
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a4f7ae65b46e48ac1288d0aeec989
+      internalID: -1641236217050263086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_66
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 7523
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64988e76d853cc24889e565641423241
+      internalID: 8179981331197257124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_67
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 6968
+        width: 836
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2375077fe14c74597116dbbcf2a10b
+      internalID: -4308343996010470836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_68
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 7526
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806788f5f3cac843a629779ce72a9b0
+      internalID: 441510578823385032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_69
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 6974
+        width: 841
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d827255fe596d94a9d14be1788d8414
+      internalID: -2023333987787074025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_70
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 7532
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db545a5a2c9a4947a8643540b94d8a9
+      internalID: 3996930365295653004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_71
+      rect:
+        serializedVersion: 2
+        x: 5235
+        y: 6983
+        width: 842
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42975675793828c4f814db19d4f23455
+      internalID: -5935389981405568205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_72
+      rect:
+        serializedVersion: 2
+        x: 7006
+        y: 7537
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a04d8546d93ce469d9ea14a5e67890
+      internalID: -850981575300782215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_73
+      rect:
+        serializedVersion: 2
+        x: 7314
+        y: 6992
+        width: 850
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09776145df48e14fb9833b5b1d5f3fb
+      internalID: -6891298164851672393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6864
+        width: 738
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d7b4ee1bfca14479472d0ca04d37ca
+      internalID: -3004748367027659057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_75
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 6898
+        width: 226
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a055114605634c98236383042e116
+      internalID: -1560536207730514322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_76
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 6876
+        width: 737
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34bdb07d4ae884eb4b6062be535464
+      internalID: 7594054058780117901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_77
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 6900
+        width: 228
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ea6505110e0a4e99ff2ba44222078
+      internalID: 1675314650902027646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_78
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 7038
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936361fbe28fd594dbe7a9ede5e0bdcb
+      internalID: 8289689871820203310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_79
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 6888
+        width: 738
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b156ffeb2e9c33a468ef58d5aefa7aff
+      internalID: -8856515274697944433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_80
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 6900
+        width: 231
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d34b48eda23824bac59a2493fee6cb
+      internalID: 232857730469292839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_81
+      rect:
+        serializedVersion: 2
+        x: 6433
+        y: 7054
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521faeae375649e459c41915a46d8e25
+      internalID: -6379269314631972932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_82
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 6895
+        width: 734
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77abecc259c35a54aa71eabb9fb21d94
+      internalID: -7724469321508736412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_83
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 6901
+        width: 226
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b703ef187404dfa469b108b4f3a2cdae
+      internalID: -6800860998216356734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_84
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7011
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82762310e41d644689bc84be0f288a7
+      internalID: -5263962040735865134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_85
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 7025
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0fd34b4d6cb145a62f262c6b94ffd
+      internalID: -7904105543219788007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_86
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 6760
+        width: 232
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cfcf886b9acce448396637608f91ca
+      internalID: -3515753523148636150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_87
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 6761
+        width: 231
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2414e1039fa38c41ac7f8f2cccdbe62
+      internalID: -6102429560828354161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_88
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 6763
+        width: 233
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097128ef45dc4304bb9f68af9a54f426
+      internalID: -3255540927685669804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_89
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 6934
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec530db621cb6c44297aab58b91e10af
+      internalID: 6347276303108216396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_90
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 6766
+        width: 232
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71248595dc1b54a44af6b7122f8fabd3
+      internalID: -4768316760252130376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_91
+      rect:
+        serializedVersion: 2
+        x: 7582
+        y: 6934
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f118e92e60bf428a6ec8a678bcf5e
+      internalID: -7231604889033850722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_92
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 6922
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad8bfe056353e44a24bb169988f216
+      internalID: 851720824382226413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_93
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 6928
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666ae1b225da784cba37f1e958f6cd8
+      internalID: 9089128507384660474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_94
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 6916
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9c9f50843d9841aa8a8af71849f77
+      internalID: 2463180431343180282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_95
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 6613
+        width: 234
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810ec924909b9b408e275f242895720
+      internalID: -7696998593597730264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_96
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 6613
+        width: 231
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082aff10aedc1b47bf6713040ddb271
+      internalID: 5780974093662160771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_97
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 6613
+        width: 232
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365837cdfe429f4491fe24214e9dffe
+      internalID: 1455606566218837811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_98
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 6613
+        width: 235
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c25391d8c607b4db8f88584e0da5b6
+      internalID: -7033327464079249718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_99
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 5460
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b1da06381cffe41be60f78865158af
+      internalID: 5291349096344979804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_100
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 4912
+        width: 854
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d588ecc0ca4ad489e310527cebb048
+      internalID: -3321343171007146476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_101
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 5455
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e4e4d6227e3f45a942702f0819e3a
+      internalID: -5179860507755073600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_102
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 4905
+        width: 848
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d72e70ca3fe094b9cf1e7437cc4285
+      internalID: -2199323281243602156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_103
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 5448
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e03e661459c545a5e32c19d829924
+      internalID: 16949888669023799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_104
+      rect:
+        serializedVersion: 2
+        x: 5235
+        y: 4898
+        width: 842
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266068520501f98458e77b9e57f80509
+      internalID: -7663280920194400146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_105
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 5442
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e24d7faa90f8745aa18fa72164d986
+      internalID: 165429652250083809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_106
+      rect:
+        serializedVersion: 2
+        x: 7323
+        y: 4892
+        width: 836
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064afdccec759ea439c5d5e50ff56099
+      internalID: -4744978024517657817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 4985
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe502cf3bf87c047888861ff7e26a08
+      internalID: 5616119799086328135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_108
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4825
+        width: 732
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a3504d5c5e574ba4c0b4a99c1b98c
+      internalID: 3430966150474611660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_109
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 4820
+        width: 228
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f729abdc9a55de4cb679623d3814132
+      internalID: 3042256345934534404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_110
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 4969
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f331de3830a030a46a52468bf3f4d9d1
+      internalID: -4454129108753284827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_111
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 4813
+        width: 732
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970d9bd66412bd47b29a7ecc4b1fc16
+      internalID: -69992448435413389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_112
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 4819
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ba15460ca0cfb4f9ed48918fb0e6bf
+      internalID: -1028992467503554229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_113
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 4801
+        width: 738
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359f4f4ee5aba0418aa857c61dae363
+      internalID: -8984389401104736880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_114
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 4819
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441672b4da7abc54eb33b4f3cd430692
+      internalID: -6169102294841396884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_115
+      rect:
+        serializedVersion: 2
+        x: 6519
+        y: 4788
+        width: 739
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb303abf57a587c4ca0ef8465cab4046
+      internalID: -8407296191642947526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_116
+      rect:
+        serializedVersion: 2
+        x: 7176
+        y: 4814
+        width: 226
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ec648b3200f37498952ac0283e0497
+      internalID: 3184179530116684975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_117
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 4954
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858e8e824beefe42999406815e4270a
+      internalID: -6890763824157901379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_118
+      rect:
+        serializedVersion: 2
+        x: 6432
+        y: 4938
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f79cd600fab047b10bcd23c5bdedf
+      internalID: 2929668368392194420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_119
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 4680
+        width: 232
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5168468df821f54e8ecc8efcf47d980
+      internalID: 8000017323124152157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_120
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 4857
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b77fafab5d461448378975081368ad
+      internalID: -6070508760621287074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_121
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 4679
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876a01ae7c46c0f43873c48382141ac0
+      internalID: 820002459032418600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_122
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 4847
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c02199ddbeefd4d967859d51f0fec7
+      internalID: 4464772867191443654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_123
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 4679
+        width: 233
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19efb314d7a9c864fa7d36ae0a0842bf
+      internalID: -4079554461123555880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_124
+      rect:
+        serializedVersion: 2
+        x: 7292
+        y: 4679
+        width: 232
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb0477cd5d06c1448bd6d633a492cd0
+      internalID: 2258282788904729669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_125
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 4840
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e33456a5e733e45a1d8a0f47eccde1
+      internalID: 9127605787179380999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_126
+      rect:
+        serializedVersion: 2
+        x: 7589
+        y: 4834
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7922516558eb4c04d941a7f222d40aee
+      internalID: 8827108547564440715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_127
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 4819
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07abee53fa49204ab4e5a8f36872d18
+      internalID: -5828580083674315844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_128
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 4532
+        width: 235
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17244f4f34b8d7940a5d4ad51b240ff9
+      internalID: -2869279089667885197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_129
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 4532
+        width: 231
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ddb3024a857604189d0ec9af101dca
+      internalID: -7611489176410838046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_130
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 4532
+        width: 232
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce366b3570b425438757698065ad540
+      internalID: -1092364007205620921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_131
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 4532
+        width: 236
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eae7a2a164e6c45b0f0a151dc8d52a
+      internalID: 1274025887546958898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_132
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 3351
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb829e3d07d5e134ea8bfab9af26c24a
+      internalID: 2642138242740722639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_133
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2799
+        width: 835
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e665adbd436f8ed44b13091c276e6f7d
+      internalID: 7243479663664827944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_134
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3345
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5e652b6d148514a89e1accb19f9767
+      internalID: 2483114197741789694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_135
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 2790
+        width: 828
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f630fb708b880b94488c98a7d836911f
+      internalID: -1047899815268003091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_136
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 3339
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b5e25fd62bc045a88f157a9ed79a3
+      internalID: -437044205155503708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_137
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 2781
+        width: 823
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83e2a9ea3e3a246b6e3ca3dc5472c4
+      internalID: -1584228580900592009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_138
+      rect:
+        serializedVersion: 2
+        x: 6948
+        y: 3336
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c0d8b21cccd7247971d3cae2153be2
+      internalID: 4559989194346491127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_139
+      rect:
+        serializedVersion: 2
+        x: 7336
+        y: 2774
+        width: 816
+        height: 1037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b64eaced37d4645bfc94e62368bbf8
+      internalID: 2107812037839011816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_140
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2695
+        width: 738
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bdd106c2bcab24d9548475e155b7f6
+      internalID: 7130456161355854812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_141
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 2683
+        width: 720
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912fc91896804e04a8f65e8e194b06f2
+      internalID: -5698608003505959806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_142
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2952
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d5596b86b2734ca753fbe3aac1ad4
+      internalID: -7199407043510833554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_143
+      rect:
+        serializedVersion: 2
+        x: 4436
+        y: 2671
+        width: 719
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9448ab7ada73d46bc6da0ba61f91a4
+      internalID: 2768520655848054980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_144
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 2942
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91108c6ae843a4b4a9ecb929a0741679
+      internalID: -2012718481877089730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_145
+      rect:
+        serializedVersion: 2
+        x: 6523
+        y: 2659
+        width: 714
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb421cd2e8d362543a3782be9aa1a427
+      internalID: -8975606220843714518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_146
+      rect:
+        serializedVersion: 2
+        x: 7172
+        y: 2725
+        width: 224
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee587ab61d36f5f4fbde8fdfb35d1f38
+      internalID: -1612462560053796440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_147
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2839
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b36495ee761a4998a9cb4a9ba490e
+      internalID: -3322012690229971838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_148
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2731
+        width: 226
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980808a1bd5b33640a37552323675d85
+      internalID: 24676762028942250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_149
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2825
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd3008fce5cb8438a1f6300708f7f5
+      internalID: -2939958061706215493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_150
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 2727
+        width: 225
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64829cf5dba61be48ac3fdf0241b75bb
+      internalID: 2270085070022770030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_151
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 2726
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ccaa514bba62b4584c42d71ef0e9e7
+      internalID: -4841347833644626315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_152
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 2808
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2907353ca1af41b03ea6a705f5b5e
+      internalID: 2074718796896549099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_153
+      rect:
+        serializedVersion: 2
+        x: 6432
+        y: 2793
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a32da0057d16542830aa91de2522ba
+      internalID: -3240256661567437134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_154
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2592
+        width: 232
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbabc5c6f6c46884db81dc4faa616ca7
+      internalID: -8775532159116400262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_155
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 2747
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e78aba24374a143ad99e03a2b12ce4
+      internalID: 3903277339832465196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_156
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 2591
+        width: 231
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd90af13f6ca32641bebdba5827b87e3
+      internalID: 7023545580396408329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_157
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 2735
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf4666f4068ae42839297ced71e2b3
+      internalID: 1341672597652790781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_158
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 2591
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5760ecfd9fdcf144982da13fcf88e0a
+      internalID: 5909857933762810195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_159
+      rect:
+        serializedVersion: 2
+        x: 7293
+        y: 2591
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84a9f15af12f764f988772354d13611
+      internalID: 2562037739285185996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_160
+      rect:
+        serializedVersion: 2
+        x: 5513
+        y: 2729
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba06f71f74deb04c89e4dddbb84c441
+      internalID: 827931640257029642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_161
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 2723
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8654201e6d2c3234394d1c1fe9e03e72
+      internalID: -8585539354069307537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_162
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2446
+        width: 237
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddd291ae18b5d2419ac5af06a86e904
+      internalID: -2172866388746845689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_163
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 2446
+        width: 231
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349abdb5379645f4b8a38662f2cd2ff3
+      internalID: 383510115318776768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_164
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 2446
+        width: 232
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb4abae97ab0a488fe942919215d80
+      internalID: 2058306047168289339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_165
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 2446
+        width: 236
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595b84d7dc109a4789c48174ad51e2a
+      internalID: 6687947367943113862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_166
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1244
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c259307b5071a9429f0d73f42d7e6b3
+      internalID: 8204280074143775031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_167
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 684
+        width: 810
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64c30ec994ff624781019200eaab5e9
+      internalID: -457267079162875099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_168
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 1238
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f414d5225dc59b4fa03c2f3b83b3a20
+      internalID: 4776333915045669448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_169
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 675
+        width: 799
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8f39efb3ce1f740b24e501e39f325f
+      internalID: -6204031347388201340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_170
+      rect:
+        serializedVersion: 2
+        x: 4839
+        y: 1232
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba1254c27cb9a4a90a12fcc14c979e
+      internalID: -7719878988249920488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_171
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 666
+        width: 794
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1bb5e321d60fb4593cb71feac4a406
+      internalID: 436534947984792642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_172
+      rect:
+        serializedVersion: 2
+        x: 6915
+        y: 1226
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb997b4d23fe6542b07fb4d4f1952a6
+      internalID: 1438603077531593960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_173
+      rect:
+        serializedVersion: 2
+        x: 7350
+        y: 657
+        width: 791
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c88c4eefde5ec48a36a07613a4e10a
+      internalID: -3692899692772968749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_174
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 696
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7b61f46e23d5f41a84291bbac7abed
+      internalID: -5625983874814375276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_175
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 565
+        width: 714
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caae0a2c21833004c8cd8710332dee05
+      internalID: -6821001040340858731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_176
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 639
+        width: 220
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d17fcb1ef80b748b4790326e27f5fc
+      internalID: 5890528596122406329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_177
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 505
+        width: 231
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc783ac6efdad294ba95d533e8425ed3
+      internalID: 8739708465425351919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_178
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 681
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f09504696014254382f60aead1a789f
+      internalID: 4604244337082111473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_179
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 556
+        width: 711
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef959aa8d11ed4a9367c30417180da
+      internalID: 4487254578056581305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_180
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 638
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583a1778843b974db1b560cb1e2aa65
+      internalID: -7943124048667630919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_181
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 504
+        width: 229
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc5be74c9b1a543bfd5c456ac127a9
+      internalID: 5009929209328267901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_182
+      rect:
+        serializedVersion: 2
+        x: 4442
+        y: 546
+        width: 707
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c813811622a0ed4e9452e013ce63052
+      internalID: -7799509483854497941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_183
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 638
+        width: 225
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f4a2a18cc3fcf439b1f1cd46fddc7e
+      internalID: 3642964152845742553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_184
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 504
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b84e275c1cf1d144aab7daff0917962
+      internalID: 6279615376374383857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_185
+      rect:
+        serializedVersion: 2
+        x: 6529
+        y: 534
+        width: 702
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be8c6c6171230d4e9d58f10be295685
+      internalID: 844058237970541073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_186
+      rect:
+        serializedVersion: 2
+        x: 7171
+        y: 638
+        width: 225
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826997a488e0959439bb73ee70675ffa
+      internalID: -2130373007522912977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_187
+      rect:
+        serializedVersion: 2
+        x: 7293
+        y: 504
+        width: 231
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29490de1d16618348b7e8ce55c5ced51
+      internalID: 2822470053250370349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_188
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 664
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6482b1fc2b6d36d478e28b43174e4518
+      internalID: -4656522173126389093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_189
+      rect:
+        serializedVersion: 2
+        x: 6433
+        y: 651
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f48c0957a08940a1fca4046c8589a
+      internalID: 91810904394031365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_190
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 635
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce25bc0cd302641bfab9454fde61cb
+      internalID: 4128136619280817732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_191
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 629
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e996718b9acef634fb456fdc527ffd7e
+      internalID: -6430901184361337415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_192
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 617
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c246cfc70f8444c829f1464ecfb625
+      internalID: -1512416436418220518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_193
+      rect:
+        serializedVersion: 2
+        x: 7607
+        y: 611
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ffb9a1c7a75c642875388fb44b13cc
+      internalID: -3863213902644577398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_194
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 363
+        width: 234
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94c624275495a4badc2af87d18c0c4
+      internalID: -5718020604562148299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_195
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 363
+        width: 231
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64515e5eb13d844380a2a4f771b0db9
+      internalID: -5116075102251014067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_196
+      rect:
+        serializedVersion: 2
+        x: 5314
+        y: 363
+        width: 232
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5948d73df4c3e45856f05b1db1431a
+      internalID: 8941663970128616602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ysnake_197
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 363
+        width: 235
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e02abda4fab34d80c214c16d5eefc
+      internalID: 5691916785190238410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
