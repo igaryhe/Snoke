@@ -1,58 +1,82 @@
 ﻿using System.Collections.Generic;
+using System.Security.Cryptography;
 using UnityEngine;
 
 public class BodyController : MonoBehaviour
 {
     public GameObject part;
-    private const int len = 10;
-    private List<Transform> body;
-    private Vector3[] vels;
+    private int len = 10;
+    private List<GameObject> body;
+    private List<Vector3> vels;
+    public int player;
+    private float distant = 0.2f;
 
     private void Start()
     {
-        body = new List<Transform>();
+        body = new List<GameObject>();
         InitBody(body);
     }
     
-    private float overTime = 0.1f;
-
-    private void FixedUpdate()
+    private void LateUpdate()
     {
         UpdateBody(body);
     }
 
-    private void InitBody(ICollection<Transform> b)
+    private void InitBody(ICollection<GameObject> b)
     {
-        vels = new Vector3[len];
+        vels = new List<Vector3>();
         for (var i = 0; i != len; i++)
         {
             var instance = Instantiate(part, transform.position, Quaternion.identity);
-            instance.GetComponent<SpriteRenderer>().color = gameObject.GetComponent<SpriteRenderer>().color;
-            b.Add(instance.transform);
+            instance.GetComponentInChildren<SpriteRenderer>().color = gameObject.GetComponent<SpriteRenderer>().color;
+            b.Add(instance);
+            vels.Add(Vector3.zero);
         }
     }
 
-    private void UpdateBody(IReadOnlyList<Transform> b)
+    private void UpdateBody(List<GameObject> b)
     {
         for (var i = 0; i != len; i++)
         {
-            if (i == 0)
+            //b[i].position = Vector3.Lerp(b[i].position, i == 0 ? transform.position : b[i - 1].position, overTime);
+            if (i != 0)
             {
-                b[i].position =
-                    Vector3.SmoothDamp(b[i].position, transform.position, 
-                        ref vels[i], overTime);
+                b[i].transform.up = (b[i - 1].transform.position - b[i - 1].transform.up * 0.15f - b[i].transform.position).normalized;
+                //b[i].localPosition = new Vector3(b[i].localPosition.x,
+                //                                 b[i].localPosition.y + Vector3.Magnitude(b[i - 1].position - b[i].position) - distant,
+                //                                 b[i].localPosition.z);
+                b[i].transform.position = b[i - 1].transform.position - b[i - 1].transform.up * 0.15f - (b[i - 1].transform.position - b[i - 1].transform.up * 0.15f - b[i].transform.position).normalized * distant;
             }
-            else
+            else if(i == 0)
             {
-                b[i].position = Vector3.SmoothDamp(b[i].position,
-                    b[i - 1].position,
-                    ref vels[i], overTime);
+                b[i].transform.up = (transform.position - transform.up * 0.15f - b[i].transform.position).normalized;
+                //b[i].localPosition = new Vector3(b[i].localPosition.x,
+                //                                 b[i].localPosition.y + Vector3.Magnitude(transform.position - b[i].position) - distant,
+                //                                 b[i].localPosition.z);
+                b[i].transform.position = transform.position - transform.up * 0.15f - (transform.position - transform.up * 0.15f - b[i].transform.position).normalized * distant;
             }
         }
     }
 
     public void Increase()
     {
-        body.Add(Instantiate(part, transform.position, Quaternion.identity).transform);
+        var instance = Instantiate(part, body[len - 1].transform.position, Quaternion.identity);
+        instance.GetComponentInChildren<SpriteRenderer>().color = gameObject.GetComponent<SpriteRenderer>().color;
+        body.Add(instance);
+        vels.Add(Vector3.zero);
+        len++;
+    }
+
+    public void Restart()
+    {
+        len = 10;
+        foreach (var b in body)
+        {
+            Destroy(b);
+        }
+        body.Clear();
+        vels.Clear();
+        transform.position = new Vector3(7 * player, 0, 0);
+        InitBody(body);
     }
 }

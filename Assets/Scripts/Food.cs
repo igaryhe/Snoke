@@ -6,9 +6,12 @@ public class Food : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Some one stuck into me!");
         var bc = other.gameObject.GetComponent<BodyController>();
-        bc.Increase();
+        if (bc == null) return;
+        for (int i =0; i<3; i++)
+        {
+            bc.Increase();
+        }
         FindObjectOfType<Generator>().Generate();
         Destroy(gameObject);
     }

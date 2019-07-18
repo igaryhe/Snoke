@@ -3,16 +3,18 @@ using Random = UnityEngine.Random;
 
 public class Generator : MonoBehaviour
 {
-    public GameObject food;
+    public GameObject[] foods;
     public void Generate()
     {
-        var x = Random.Range(-8.5f, 8.5f);
-        var y = Random.Range(-5.5f, 5.5f);
-        Instantiate(food, new Vector3(x, y, 0), Quaternion.identity);
+        var x = Random.Range(-6f, 6f);
+        var y = Random.Range(-4f, 4f);
+        var random = new System.Random();
+        var i = random.Next(2);
+        Instantiate(foods[i], new Vector3(x, y, 0), Quaternion.identity);
     }
 
     private void Start()
     {
-        // Generate();
+        Generate();
     }
 }

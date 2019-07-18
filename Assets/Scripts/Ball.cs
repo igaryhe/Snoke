@@ -3,6 +3,7 @@
 public class Ball : MonoBehaviour
 {
     private Rigidbody2D _rb;
+    public GameObject head1, head2;
 
     private float speed = 2;
     // Start is called before the first frame update
@@ -16,7 +17,6 @@ public class Ball : MonoBehaviour
     void Update()
     {
         if (_rb.velocity.magnitude == 0) return;
-        // _rb.velocity = _rb.velocity.normalized * speed;
         _rb.velocity = _rb.velocity.normalized * speed;
         speed += Time.deltaTime * 0.2f;
     }
@@ -26,5 +26,7 @@ public class Ball : MonoBehaviour
         gameObject.transform.position = Vector3.zero;
         _rb.velocity = Vector2.zero;
         speed = 2;
+        head1.GetComponent<BodyController>().Restart();
+        head2.GetComponent<BodyController>().Restart();
     }
 }
