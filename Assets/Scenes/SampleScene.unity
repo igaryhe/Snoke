@@ -2583,7 +2583,7 @@ MonoBehaviour:
   speed: 2
   horizontal: Horizontal2
   vertical: Vertical2
-  rotateSpeed: 200
+  rotateSpeed: 250
   player: 1
   bar: {fileID: 748905642}
 --- !u!50 &1355017683
@@ -2943,7 +2943,7 @@ MonoBehaviour:
   speed: 2
   horizontal: Horizontal
   vertical: Vertical
-  rotateSpeed: 200
+  rotateSpeed: 250
   player: 0
   bar: {fileID: 2123522269}
 --- !u!50 &1522259842

@@ -51,7 +51,16 @@ public class Movement : MonoBehaviour
                 rotAdj = 0.5f;
                 spdAdj = 0.5f;
             }
-            else rotAdj = 1;
+            if (collision.gameObject.tag == "Body")
+            {
+                rotAdj = 0.8f;
+                spdAdj = 1f;
+                durAdj = 0.1f;
+            }
+            else
+            {
+                rotAdj = 1;
+            }
         }
     }
 
@@ -71,6 +80,7 @@ public class Movement : MonoBehaviour
             {
                 t = 0;
                 spdAdj = 1f;
+                durAdj = 1f;
                 disableCtrl = false;
             }
             else
