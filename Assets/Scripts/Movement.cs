@@ -52,7 +52,7 @@ public class Movement : MonoBehaviour
                 spdAdj = 0.3f;
                 durAdj = 0.3f;
             }
-            if (collision.gameObject.tag == "Body")
+            else if (collision.gameObject.tag == "Body")
             {
                 rotAdj = 0.8f;
                 spdAdj = 1f;
