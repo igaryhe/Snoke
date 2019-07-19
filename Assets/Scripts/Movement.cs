@@ -137,4 +137,10 @@ public class Movement : MonoBehaviour
             stamina = 1f;
         }
     }
+
+    public void Restart(int player)
+    {
+        dir = Vector3.left * player;
+        durAdj = 0.5f;
+    }
 }

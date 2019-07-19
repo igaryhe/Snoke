@@ -73,5 +73,7 @@ public class BodyController : MonoBehaviour
         vels.Clear();
         transform.position = new Vector3(7 * player, 0, 0);
         InitBody(body);
+        // gameObject.transform.up = Vector3.left * player;
+        gameObject.GetComponent<Movement>().Restart(player);
     }
 }
