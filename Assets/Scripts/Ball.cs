@@ -24,6 +24,14 @@ public class Ball : MonoBehaviour
         //speed = Mathf.Pow(t, 0.5f) + 2.0f;
     }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            GetComponent<Rigidbody2D>().AddForce(collision.relativeVelocity);
+        }
+    }
+
     public void Reposition()
     {
         t = 0f;
