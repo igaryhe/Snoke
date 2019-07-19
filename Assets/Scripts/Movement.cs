@@ -116,11 +116,16 @@ public class Movement : MonoBehaviour
         if (Input.GetKey(sprint) || Input.GetKey("joystick " + (player + 1) + " button 1") && stamina >= 0f)
         {
             speed = 4.5f;
-            stamina -= Time.deltaTime;
+            stamina -= Time.deltaTime * 0.8f;
         }
         else
         {
             speed = 3f;
+        }
+
+        if (stamina < 0.5)
+        {
+            stamina += Time.deltaTime * 0.15f;
         }
 
         bar.value = stamina;
