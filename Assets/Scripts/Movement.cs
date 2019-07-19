@@ -50,7 +50,8 @@ public class Movement : MonoBehaviour
             {
                 rotAdj = 0f;
                 spdAdj = 0.3f;
-                durAdj = 0.3f;
+                // durAdj = 0.3f;
+                durAdj = 0.1f * Mathf.Abs(-1 * Vector3.Dot(new Vector3(collision.relativeVelocity.x, collision.relativeVelocity.y, 0), transform.up));
             }
             else if (collision.gameObject.tag == "Body")
             {
