@@ -22,6 +22,7 @@ public class Ball : MonoBehaviour
         //_rb.velocity = _rb.velocity.normalized * speed;
         //t += Time.deltaTime;
         //speed = Mathf.Pow(t, 0.5f) + 2.0f;
+        _rb.velocity += Time.deltaTime * _rb.velocity.normalized * 0.2f;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
