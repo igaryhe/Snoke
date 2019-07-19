@@ -28,7 +28,9 @@ public class Ball : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
-            GetComponent<Rigidbody2D>().AddForce(collision.relativeVelocity);
+            GetComponent<Rigidbody2D>().velocity = collision.transform.up
+                                                 * Mathf.Clamp(collision.gameObject.GetComponent<Rigidbody2D>().velocity.magnitude, 3f, 6f);
+            Debug.Log("ball_v:" + GetComponent<Rigidbody2D>().velocity);
         }
     }
 
