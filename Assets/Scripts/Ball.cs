@@ -30,7 +30,7 @@ public class Ball : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
                 //Debug.Log(collision.contacts[1].normal);
-            if (Vector2.Dot(transform.up, collision.contacts[0].normal) > 0)
+            if (Vector2.Dot(collision.transform.up, collision.contacts[0].normal) > 0)
             {
                 GetComponent<Rigidbody2D>().velocity = collision.transform.up
                                                      * Mathf.Clamp(collision.gameObject.GetComponent<Rigidbody2D>().velocity.magnitude, 3f, 6f);
