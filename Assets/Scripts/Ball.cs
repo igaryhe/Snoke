@@ -6,7 +6,7 @@ public class Ball : MonoBehaviour
     private Rigidbody2D _rb;
     public GameObject head1, head2;
 
-    private float t = 0f;
+    private float t;
     private float speed = 2;
     // Start is called before the first frame update
     void Start()
@@ -22,12 +22,12 @@ public class Ball : MonoBehaviour
         //_rb.velocity = _rb.velocity.normalized * speed;
         //t += Time.deltaTime;
         //speed = Mathf.Pow(t, 0.5f) + 2.0f;
-        _rb.velocity += Time.deltaTime * _rb.velocity.normalized * 0.2f;
+        _rb.velocity += Time.deltaTime * 0.2f * _rb.velocity.normalized;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        if (collision.gameObject.CompareTag("Player"))
         {
                 //Debug.Log(collision.contacts[1].normal);
             if (Vector2.Dot(transform.up, collision.contacts[0].normal) > 0)

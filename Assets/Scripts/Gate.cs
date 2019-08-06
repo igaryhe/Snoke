@@ -7,27 +7,26 @@ public class Gate : MonoBehaviour
 
     public TextMeshProUGUI win;
 
-    public GameObject ball;
+    public Ball ball;
 
     public int player;
 
-    public GameObject GameOver, Main;
+    public UIManager uim;
+    private int score;
 
-    private int score = 0;
+    private int winScore = 7;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject != ball) return;
+        if (other.gameObject != ball.gameObject) return;
         score++;
-        if (score == 7)
+        if (score == winScore)
         {
-            GameOver.SetActive(true);
-            Main.SetActive(false);
-            Time.timeScale = 0f;
+            uim.GameOver();
             win.text = "Player " + player + " win!";
         }
         scoreText.text = score.ToString();
-        ball.GetComponent<Ball>().Reposition();
+        ball.Reposition();
     }
 
     public void Restart()

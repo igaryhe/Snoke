@@ -46,14 +46,14 @@ public class Movement : MonoBehaviour
             disableCtrl = true;
             dir = collision.contacts[0].normal;
             d = Vector3.SignedAngle(transform.up, dir, Vector3.forward);
-            if (collision.gameObject.tag == "Ball")
+            if (collision.gameObject.CompareTag("Ball"))
             {
                 rotAdj = 0f;
                 spdAdj = 0.3f;
                 // durAdj = 0.3f;
                 durAdj = 0.1f * Mathf.Abs(-1 * Vector3.Dot(new Vector3(collision.relativeVelocity.x, collision.relativeVelocity.y, 0), transform.up));
             }
-            else if (collision.gameObject.tag == "Body")
+            else if (collision.gameObject.CompareTag("Body"))
             {
                 rotAdj = 0.8f;
                 spdAdj = 1f;
@@ -113,7 +113,7 @@ public class Movement : MonoBehaviour
         //transform.up = Vector3.Lerp(transform.up, new Vector3(_x, _y, 0), Time.deltaTime * rotateSpeed);
 
         //transform.up = dir;
-        _rb.velocity = transform.up * speed * spdAdj;
+        _rb.velocity = speed * spdAdj * transform.up;
         if (Input.GetKey(sprint) || Input.GetKey("joystick " + (player + 1) + " button 1") && stamina >= 0f)
         {
             speed = 4.5f;
